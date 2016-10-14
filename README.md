@@ -4,6 +4,6 @@ A basic translator usable for any web app.
 
 Exemple:
 
-const Translator = require('translator-react-native');
+const translator = require('translator');
 
-return Translator.get('MyKey', 'fr');
+return translator.get('MyKey', 'fr');
