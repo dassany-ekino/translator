@@ -1,5 +1,5 @@
 {
-  "name": "translator-react-native",
+  "name": "translator",
   "version": "0.0.0",
   "description": "A basic translator for js",
   "main": "Translator.js",
