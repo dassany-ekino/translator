@@ -1,0 +1,20 @@
+{
+  "name": "translator-react-native",
+  "version": "0.0.0",
+  "description": "A basic translator for js",
+  "main": "Translator.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PandaDevIO/Translator.git"
+  },
+  "keywords": [
+    "translate",
+    "react-native",
+    "webapp"
+  ],
+  "author": "Damien Assany <damien.assany@live.fr>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/PandaDevIO/Translator"
+  }
+}
