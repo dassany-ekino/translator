@@ -5,7 +5,7 @@
   "main": "Translator.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/PandaDevIO/Translator.git"
+    "url": "git://github.com/PandaDevIO/translator.git"
   },
   "keywords": [
     "translate",
@@ -15,7 +15,7 @@
   "author": "Damien Assany <damien.assany@live.fr>",
   "license": "",
   "bugs": {
-    "url": "https://github.com/PandaDevIO/Translator"
+    "url": "https://github.com/PandaDevIO/translator"
   },
   "dependencies": {}
 }
