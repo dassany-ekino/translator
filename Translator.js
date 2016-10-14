@@ -1,8 +1,14 @@
+/*
+* Author : Damien Assany
+* Email : damien.assany@live.fr
+* GitHub : https://github.com/PandaDevIO
+*/
+
 'use strict';
 
 const languages = {
-  fr: require('./languages/fr'),
-  en: require('./languages/en'),
+  fr: require('../../languages/fr'),
+  en: require('../../languages/en')
 };
 
 class Translator {
